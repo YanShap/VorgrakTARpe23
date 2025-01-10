@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\VorgrakTARpe23.props" />
+</Project>
